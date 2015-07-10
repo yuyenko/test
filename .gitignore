@@ -1,3 +1,12 @@
+###################
+## Ignoring folders
+###################
+vendor/
+
+
+
+
+
 #################
 ## Eclipse
 #################
@@ -165,9 +174,9 @@ UpgradeLog*.htm
 App_Data/*.mdf
 App_Data/*.ldf
 
-#############
+###################
 ## Windows detritus
-#############
+###################
 
 # Windows image file caches
 Thumbs.db
@@ -215,7 +224,10 @@ pip-log.txt
 .mr.developer.cfg
 
 
-# Sublime Text 3
+#################
+## Sublime Text 3
+#################
+
 # cache files for sublime text
 *.tmlanguage.cache
 *.tmPreferences.cache
